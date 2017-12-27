@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wordiary</string>
+    <string name="title_activity_day">Giorno</string>
+    <string name="title_activity_image">Immagine</string>
+    <string name="title_activity_entry">Entry</string>
+    <string name="button_newEntry_label">Nuova entry</string>
+    <string name="button_takePhoto_label">Scatta foto</string>
+    <string name="dialog_new_entry">Nuovo post</string>
+    <string name="dialog_edit_entry">Editare il post</string>
+    <string name="dialog_option_entry">Opzioni</string>
+    <string name="confirm">Conferma</string>
+    <string name="cancel">Cancella</string>
+    <string name="go">Vai</string>
+    <string name="title_activity_mood">Come va?</string>
+    <string name="font_size">Dimensione del font per i post</string>
+    <string name="preferences">Preferenze</string>
+    <string name="grace_period">Imposta il tempo limite di modifica per i post</string>
+    <string name="typeface">Tipo di font per i post</string>
+    <string name="title_activity_gallery">Galleria</string>
+    <string name="grace_period_ended">Il tempo limite di modifica per il post è scaduto.</string>
+    <string name="image_saved">Immagine salvata</string>
+    <string name="message_deleted">Messaggio eliminato</string>
+    <string name="photo_deleted">Foto eliminata</string>
+    <string name="accepted_values">Accettati solo valori tra 0 e 168.</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="delete_button">Elimina</string>
+    <string name="share_button">Condividi</string>
+    <string name="message_saved">Messaggio salvato</string>
+    <string name="message_not_saved">Messaggio non salvato</string>
+    <string name="share_via">Condividi via</string>
+    <string name="camera_not_available">Fotocamera non disponibile</string>
+    <string name="sd_full">La SD card è piena</string>
+	<string name="title_confirm">Procedere?</string>
+    <string name="no_entry">Nessun entry</string>
+    <string name="no_photo">Nessuna foto</string>
+    <string name="no_entry_or_photo_notice">Puoi usare i seguenti bottoni per iniziare a divertirti con Wordiary. Appariranno attraverso quasi tutta l\'applicazione.</string>
+    <string name="no_photo_notice">La galleria è vuota. Usa il bottone della fotocamera per fare una foto.</string>
+
+</resources>

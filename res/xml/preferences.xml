@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference
+        android:title="@string/font_size"
+        android:key="font_size"
+        android:dialogTitle="@string/font_size"
+        android:entries="@array/fontSize"
+        android:entryValues="@array/fontSizeValues"
+        android:defaultValue="2"/>
+ 	<ListPreference
+ 	    android:title="@string/typeface"
+ 	    android:key="typeface"
+ 	    android:dialogTitle="@string/typeface"
+ 	    android:entries="@array/typeface"
+ 	    android:entryValues="@array/typefaceValues"
+ 	    android:defaultValue="1"/>
+    <EditTextPreference
+            android:title="@string/grace_period"
+            android:key="grace_period"
+            android:dialogTitle="@string/grace_period"
+            android:inputType="number"
+            android:defaultValue="24"/>
+
+</PreferenceScreen>
